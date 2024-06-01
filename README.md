@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankvlog" alt="mayankvlog" /></a> </p>
 
-- 🔭 I’m currently working on [Toyota_mlops](https://github.com/Mayankvlog/Toyota_mlops)
+- 🔭 I’m currently working on [Fifa_mlops](https://github.com/Mayankvlog/Fifa_mlops)
 
 - 📫 How to reach me **mayank.kr0311@gmail.com**
 
