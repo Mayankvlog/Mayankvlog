@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center"> Mlops engineer & Data analytics </h3>
+<h3 align="center"> Mlops engineer , Machine Learning engineer & Data analytics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankvlog&label=Profile%20views&color=0e75b6&style=flat" alt="mayankvlog" /> </p>
 
