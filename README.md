@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working in github.com/Mayankvlog/Foodie.AI.git<br>I'm a passionate Data Analyst and AI Developer skilled in Python, Machine Learning, Deep Learning, and Neural Networks. With hands-on experience in real-world projects and internships, I specialize in NLP, data visualization, and intelligent system design. I enjoy transforming data into insights and building AI-driven solutions that deliver real impact.<br>
+<br>I'm a passionate Data Analyst and AI Developer skilled in Python, Machine Learning, Deep Learning, and Neural Networks. With hands-on experience in real-world projects and internships, I specialize in NLP, data visualization, and intelligent system design. I enjoy transforming data into insights and building AI-driven solutions that deliver real impact.<br>
 
 
 ## 🌐 Socials:
