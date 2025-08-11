@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Machine learning engineer and AI Developer skilled in Python, Machine Learning, Deep Learning, and Neural Networks. With hands-on experience in real-world projects and internships, I specialize in NLP, data visualization, and intelligent system design. I enjoy transforming data into insights and building AI-driven solutions that deliver real impact.
+I'm a passionate MLops engineer and AI Developer skilled in Python, Machine Learning, Deep Learning, and Neural Networks. With hands-on experience in real-world projects and internships, I specialize in NLP, data visualization, and intelligent system design. I enjoy transforming data into insights and building AI-driven solutions that deliver real impact.
 
 
 ## 🌐 Socials:
