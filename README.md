@@ -2,6 +2,8 @@
 I'm a passionate Data Scientist,Web-development and AI Developer skilled in Python, Machine Learning, MLOps, Deep Learning, Mern and Cloud-platform. With hands-on experience in real-world projects and internships, I specialize in NLP, data visualization, and intelligent system design. I enjoy transforming data into insights and building AI-driven solutions that deliver real impact
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank344) 
 
